@@ -108,3 +108,5 @@ var arr = [
 ];
 
 noSameCloth(arr);
+
+//output : true
